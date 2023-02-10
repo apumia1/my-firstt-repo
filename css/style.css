@@ -1,0 +1,56 @@
+/* .text {
+    border-left: 20px;
+}
+
+.gggg {
+    display: flex;
+} */
+
+.ffff {
+    display: flex;
+}
+
+.btn {
+    background-color: aqua;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+}
+
+.bbbb {
+    text-align: center;
+}
+
+.cccc {
+    display: inline-block;
+    text-align: justify;
+}
+
+.doli {
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+    background-color: white;
+
+}
+
+.dddd {
+    margin-left: 200px;
+    background-image: url(/images/watch.png)
+}
+
+.social-media {
+
+    position: static;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    margin: 100px;
+    border: 20px;
+    padding: 1rem;
+
+    color: whitesmoke;
+}
